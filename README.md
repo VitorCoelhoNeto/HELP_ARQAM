@@ -1,6 +1,6 @@
 ## Available voice commands:
 
-   - Message <number>: opens the message application with the number filled;
+   - Message \<number\>: opens the message application with the number filled;
     
    - Call \<number\>: opens cell phone calling application with dialled given number;
     
@@ -18,7 +18,7 @@
     
    - E-mail: Opens email app;
    
-   - Search <terms>: searches Google for the given terms;
+   - Search \<terms\>: searches Google for the given terms;
     
    - News: opens news website;
     
@@ -36,7 +36,7 @@
     
    - Map/GPS: opens Google Maps;
     
-   - Contact <name> <number>: creates new contact;
+   - Contact \<name\> \<number\>: creates new contact;
     
    - Calculator: opens calculator app; -------Only works on some devices-------
     
@@ -58,9 +58,9 @@
   
   ## Commands that only work in portuguese:
   
-   - Alarm <hours:minutes> horas: puts up an alarm with the specified given hours;
+   - Alarm \<hours:minutes\> horas: puts up an alarm with the specified given hours;
    
-   - Meteorology <city>: meteorology for the given city;
+   - Meteorology \<city\>: meteorology for the given city;
   
   ## Available face commands:
     
