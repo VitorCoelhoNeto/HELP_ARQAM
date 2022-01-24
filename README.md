@@ -2,7 +2,7 @@
 
    - Message <number>: opens the message application with the number filled;
     
-   - Call <<number>>: opens cell phone calling application with dialled given number;
+   - Call \<number\>: opens cell phone calling application with dialled given number;
     
    - Time: says current time;
     
